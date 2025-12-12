@@ -15,6 +15,8 @@ Characteristika:
 
 Abhängigkeit vom Server
 ### 2. Peer-to-Peer 
+Jede Node kann Daten senden und empfangen. Die Sensoren sind wie in einem Mesh untereinander verbunden. Die Daten gleichen sich mit der Zeit ab. Die Web app kommunizeirt mit einer Node. Falls diese nicht mehr verfügbar ist sucht sie eine neue. Wenn eine Node einen Kritischen Wert beobachtet soll sie kommunikation mit der Web-App auslösen, welche push Benachrichtigungen senden kann. 
+
 ![Peer-to-Peer Architecture](./Peer-to-Peer.drawio.png)
 
 Charakteristika:
@@ -23,3 +25,4 @@ Charakteristika:
 - Hohe Ausfallsicherheit durch Mesh- oder Gossip-basierte Verteilung
 - Komplexere Datenhaltung und Synchronisation
 - Web-App bezieht Daten von verfügbaren Peers
+- für übertragungsprotokolle mit geringer reichweite, größere distanzen können mit genügend peers überwunden werden
