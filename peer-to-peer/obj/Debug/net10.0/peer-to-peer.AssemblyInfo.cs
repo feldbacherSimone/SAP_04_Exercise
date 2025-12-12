@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("peer-to-peer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2856b4ff7795befa4a778b32095d017d6e9bc8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adb5f3911a0d5e275933eba157573872667b2e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("peer-to-peer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("peer-to-peer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
