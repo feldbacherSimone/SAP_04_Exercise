@@ -1,0 +1,15 @@
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/build_output/client-server
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/build_output/client-server.deps.json
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/build_output/client-server.runtimeconfig.json
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/build_output/client-server.dll
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/build_output/client-server.pdb
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.GeneratedMSBuildEditorConfig.editorconfig
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.AssemblyInfoInputs.cache
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.AssemblyInfo.cs
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.csproj.CoreCompileInputs.cache
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.sourcelink.json
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.dll
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/refint/client-server.dll
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.pdb
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/client-server.genruntimeconfig.cache
+/home/floneuge/Documents/mc_master/sap/SAP_04_Exercise/client-server/obj/Debug/net10.0/ref/client-server.dll

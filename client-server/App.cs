@@ -10,6 +10,15 @@ public class App
 
     public void RequestData()
     {
-        _server.GetData();
+        var data = _server.GetData();
+        foreach (var (nodeName, value) in data)
+        {
+            Console.WriteLine($"[App {_name}] Moisture data from {nodeName}: {value}");
+        }
+    }
+
+    public void ReceivePushNotification(string message)
+    {
+        Console.WriteLine($"[App {_name}] Push notification received: {message}");
     }
 }

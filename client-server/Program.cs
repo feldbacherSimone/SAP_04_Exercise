@@ -9,8 +9,10 @@ public class ProgramTest
         SensorNode node1 = new SensorNode("node1", server);
         SensorNode node2 = new SensorNode("node2", server);
 
-        node1.Send(550);
-        node2.Send(620);
+        node1.PollSensor();
+        node2.PollSensor();
+        node1.Send();
+        node2.Send();
 
         app.RequestData();
     }
