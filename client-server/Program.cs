@@ -6,6 +6,7 @@ public class ProgramTest
     {
         Server server = new Server();
         App app = new App("Handy", server);
+        
         SensorNode node1 = new SensorNode("node1", server);
         SensorNode node2 = new SensorNode("node2", server);
 

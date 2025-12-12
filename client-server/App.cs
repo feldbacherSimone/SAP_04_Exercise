@@ -6,6 +6,7 @@ public class App
     {
         _name = name;
         _server = server;
+        _server.RegisterApp(this);
     }
 
     public void RequestData()
